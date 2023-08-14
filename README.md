@@ -1,0 +1,1 @@
+A simple reactjs app for managing Expenses for learning
