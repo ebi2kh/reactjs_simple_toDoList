@@ -1,1 +1,1 @@
-A simple reactjs app for managing Expenses for learning
+A simple reactjs app for learning css styling 
